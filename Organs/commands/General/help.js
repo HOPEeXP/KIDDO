@@ -3,7 +3,7 @@ module.exports = {
   alias: ["h", "menu"],
   desc: "List all command",
   category: "General",
-  react: "✅",
+  react: "🔮",
   start: async (client, m, { commands, args, prefix, text, toUpper }) => {
     const { pushName, sender } = m;
     if (args[0]) {
