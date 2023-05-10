@@ -67,7 +67,7 @@ module.exports = {
       } else {
         var emo = ["📖","🎉", "🍁", "🍀", "🌊", "🎵", "🔞", "🎟", "♨️", "🉐"];
       }
-      let txt = *YaHello (｡♡‿♡｡)* ${pushName} Watashiwa *° WRATH °*.
+      let txt = `*YaHello (｡♡‿♡｡)* ${pushName} Watashiwa *° WRATH °*.
                        
 🧧 *Prefix :* [ ${prefix} ]
                        
